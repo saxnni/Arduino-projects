@@ -4,7 +4,7 @@ import re
 import serial
 import apple_music_scripts
 
-ARDUINO_PORT = "/dev/cu.usbmodem1101"
+ARDUINO_PORT = "/dev/cu.usbmodem1201"
 BAUD_RATE = 9600
 
 
